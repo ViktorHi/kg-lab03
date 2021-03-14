@@ -13,7 +13,7 @@ Test folder results:
 Smooth filter
 Used a gaussian filter:
 1  | 3  | 1
---
+-- | -- | --
 3  | 9  | 3
 1  | 3  | 1
 
