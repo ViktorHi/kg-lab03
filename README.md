@@ -11,6 +11,12 @@ Test folder results:
 ![](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/linear.png)
 ![](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/smoothing.png)
 Smooth filter
+Used a gaussian filter:
+
+1  | 3  | 1
+3  | 9  | 3
+1  | 3  | 1
+
 
 ![before transformation](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/examples/3/source.png "before")
 ![after transformation](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/examples/3/smooth.png "after")
