@@ -11,8 +11,11 @@ Test folder results:
 ![](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/linear.png)
 ![](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/smoothing.png)
 Smooth filter
+
 ![before transformation](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/examples/3/source.png "before")
 ![after transformation](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/examples/3/smooth.png "after")
+
+
 Folder with examples [link](https://github.com/ViktorHi/kg-lab03/tree/master/doc/img/examples)
 # Build 
 To build application from sources you should use *Maven* 
