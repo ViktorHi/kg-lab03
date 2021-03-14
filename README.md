@@ -12,8 +12,8 @@ Test folder results:
 ![](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/smoothing.png)
 Smooth filter
 Used a gaussian filter:
-
 1  | 3  | 1
+--
 3  | 9  | 3
 1  | 3  | 1
 
