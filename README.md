@@ -7,13 +7,13 @@ Symple application provide opportunities to modify images
 
 
 Test folder results:
-![]()
-![]()
-![]()
+![](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/histogram.png)
+![](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/linear.png)
+![](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/smoothing.png)
 Smooth filter
-![]()
-![]()
-Folder with examples [link]()
+![before transformation](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/examples/3/source.png "before")
+![after transformation](https://github.com/ViktorHi/kg-lab03/blob/master/doc/img/examples/3/smooth.png "after")
+Folder with examples [link](https://github.com/ViktorHi/kg-lab03/tree/master/doc/img/examples)
 # Build 
 To build application from sources you should use *Maven* 
 
@@ -22,11 +22,11 @@ To build application from sources you should use *Maven*
     * mvn javafx:run
 
 # Artifacts
-### image-corrector.rar [link]()
+### image-corrector.rar [link](https://github.com/ViktorHi/kg-lab03/tree/master/artifact/crossplatform)
 Artifact for windows user
 To run it you should unzip image-corrector.rar and open image-corrector.exe
 
-### image-corrector.jar [link]()
+### image-corrector.jar [link](https://github.com/ViktorHi/kg-lab03/tree/master/artifact/win)
 Crosplatform artifact to run this java 15 should be installed
 * You can use double click, if all java configurations installed successfully
 * Or *java -jar graphic-reader.jar* from command line or terminal 
@@ -35,5 +35,5 @@ This jar should work on Linux, Mac and Windows.
 
 
 # Documentation 
-You can find project documentation here [link]()
+You can find project documentation here [link](https://github.com/ViktorHi/kg-lab03/tree/master/doc)
 
