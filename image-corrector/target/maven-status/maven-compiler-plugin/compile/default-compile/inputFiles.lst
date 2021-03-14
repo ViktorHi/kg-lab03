@@ -1,0 +1,9 @@
+/home/viktor/temp_folder/Java_projects/kg/lab03/image-corrector/src/main/java/com/vikras/App.java
+/home/viktor/temp_folder/Java_projects/kg/lab03/image-corrector/src/main/java/com/vikras/processor/util/Images.java
+/home/viktor/temp_folder/Java_projects/kg/lab03/image-corrector/src/main/java/com/vikras/processor/SmoothingFilter.java
+/home/viktor/temp_folder/Java_projects/kg/lab03/image-corrector/src/main/java/com/vikras/processor/LinearContrast.java
+/home/viktor/temp_folder/Java_projects/kg/lab03/image-corrector/src/main/java/com/vikras/processor/HistogramEqualization.java
+/home/viktor/temp_folder/Java_projects/kg/lab03/image-corrector/src/main/java/com/vikras/Launcher.java
+/home/viktor/temp_folder/Java_projects/kg/lab03/image-corrector/src/main/java/com/vikras/controller/ProcessorMode.java
+/home/viktor/temp_folder/Java_projects/kg/lab03/image-corrector/src/main/java/com/vikras/controller/DialogChoosers.java
+/home/viktor/temp_folder/Java_projects/kg/lab03/image-corrector/src/main/java/com/vikras/controller/MainController.java
